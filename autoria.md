@@ -11,7 +11,7 @@
 - Implementación íntegramente propia, sin fuentes externas.
 
 ## Ejercicio 7
-- Implementación íntegramente propia, sin fuentes externas.
+- Utilizamos la diapositiva de merge sort de DAC vista en clase para hacer las funciones necesarias y lo adaptamos a lo que pide el ejercicio. El main y el resto de las funciones son implementaciones propias. Utilizamos Claude para probar los distintos ejemplos de la letra.
 
 ## Ejercicio 8
 - Implementación íntegramente propia, sin fuentes externas.
